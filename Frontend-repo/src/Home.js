@@ -21,10 +21,6 @@ function Home() {
       <Slider/>
       </div>
 
-     
-      
-
-
         <Subscription />
        
   
